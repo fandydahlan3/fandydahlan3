@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Fandy Dahlan</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Flutter Developer • UI/UX Designer • Data Science Enthusiast
-</h3>
+# Hi 👋 I'm Fandy Dahlan
 
-<p align="center">
-I enjoy building scalable web and mobile applications with clean architecture and great user experiences.
-I have experience developing full-stack systems, REST APIs, mobile applications, and decision support systems using modern technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;Go+Backend+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" />
+
+### Building modern web & mobile applications with clean architecture.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://YOUR-PORTFOLIO.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+💻 Full Stack Developer
+
+📱 Flutter Mobile Developer
+
+⚙️ Backend Developer (PHP, Go, Laravel, Express.js)
+
+🎨 UI/UX Designer
+
+📊 Data Science Enthusiast
+
+🌍 Open to Remote, Freelance & International Opportunities
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,tailwind,bootstrap" />
 </p>
 
----
+## Backend
 
-## 🚀 About Me
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,laravel" />
+</p>
 
-- 💻 Full Stack Web Developer
-- 📱 Flutter Mobile Developer
-- ⚙️ Backend Developer with Go (Golang), Laravel & Express.js
-- 🎨 UI/UX Designer using Figma
-- 📊 Data Science Enthusiast (Python, K-Means & SAW)
-- 🗄️ Database Design with PostgreSQL & MySQL
-- 🌍 Open to Remote, Freelance, and International Opportunities
+## Database
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-## 💼 Tech Stack
+## Tools
 
-### Frontend
-- Flutter
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
 
-### Backend
-- Go (Golang)
-- Laravel
-- Express.js
-- Node.js
-- REST API
+## Data Science
 
-### Database
-- PostgreSQL
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Figma
-- Vercel
-- XAMPP
-- Postman
-
-### Data Science
 - Python
 - Pandas
 - NumPy
@@ -66,86 +70,75 @@ I have experience developing full-stack systems, REST APIs, mobile applications,
 
 ## 🛒 POS Mobile Application
 
-Modern Point of Sale application built using Flutter, Go, and PostgreSQL.
+Flutter • Go • PostgreSQL
 
-**Features**
-
-- Product Management
 - Barcode Scanner
-- Transaction History
-- Sales Report
+- Transaction
+- Reports
+- Inventory
 - Customer Management
 
 ---
 
 ## 🧗 Athlete Decision Support System
 
-Decision Support System for athlete selection using:
+React • Express • Python
 
 - K-Means Clustering
-- Simple Additive Weighting (SAW)
-- Python
-- React
-- Express.js
+- SAW Algorithm
+- Data Visualization
+- Ranking System
 
 ---
 
 ## 🏢 Cooperative Information System
 
-A web application for cooperative management.
-
-Features include:
+Laravel • MySQL
 
 - Member Management
 - Savings & Loans
-- Financial Reports
+- Reports
 - Authentication
 
 ---
 
 ## 🏡 Property Listing Platform
 
-Modern property listing website with:
+React • Node.js • PostgreSQL
 
-- Authentication
 - Property Search
-- Advanced Filtering
-- Responsive Design
-
----
-
-## 🎨 UI/UX Design
-
-Designed modern and responsive interfaces using Figma.
-
-Projects include:
-
-- POS Mobile App
-- Dashboard
-- Landing Page
-- Property Website
+- Authentication
+- Responsive UI
+- Advanced Filter
 
 ---
 
 # 🎯 Current Focus
 
 - Flutter Development
-- Go Backend Development
+- Full Stack Development
 - REST API
 - Clean Architecture
+- Go Backend
 - UI/UX Design
-- Remote Full Stack Opportunities
+- Remote Opportunities
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
-📧 Email: fandydahlan3@gmail.com
+📧 Email : YOUR_EMAIL@gmail.com
 
-🌐 Portfolio: [https://your-portfolio.vercel.app](https://porto-fandy.vercel.app/)
+🌐 Portfolio : https://YOUR-PORTFOLIO.vercel.app
 
-💼 LinkedIn: https://[linkedin.com/in/your-profile](https://www.linkedin.com/in/fandy-bonaro-dahlan-936162221/)
+💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+<div align="center">
+
+### Thanks for visiting my profile ⭐
+
+*"Code. Learn. Build. Improve."*
+
+</div>
