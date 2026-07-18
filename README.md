@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi 👋 I'm Fandy Dahlan
+# Hi 👋, I'm Fandy Bonaro Dahlan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;Go+Backend+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;Backend+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" />
 
-### Building modern web & mobile applications with clean architecture.
+### 🚀 Building scalable web & mobile applications with clean architecture and great user experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://YOUR-PORTFOLIO.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
@@ -16,53 +16,64 @@
 
 # 👨‍💻 About Me
 
-💻 Full Stack Developer
+I'm a **Full Stack Developer** passionate about creating modern, scalable, and user-friendly web and mobile applications.
 
-📱 Flutter Mobile Developer
+I enjoy transforming ideas into real products by combining clean frontend design, robust backend architecture, and efficient database management.
 
-⚙️ Backend Developer (PHP, Go, Laravel, Express.js)
+### What I Do
 
-🎨 UI/UX Designer
-
-📊 Data Science Enthusiast
-
-🌍 Open to Remote, Freelance & International Opportunities
+- 💻 Full Stack Web Development
+- 📱 Flutter Mobile Development
+- ⚙️ Backend Development
+- 🎨 UI/UX Design with Figma
+- 📊 Data Science & Machine Learning
+- 🌍 Open to Remote, Freelance & International Opportunities
 
 ---
 
 # 🚀 Tech Stack
 
-## Frontend
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=go,php,js,python,dart" />
 </p>
 
-## Backend
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,nodejs,express,laravel" />
 </p>
 
-## Database
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-## Tools
+## 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
 
-## Data Science
+---
+
+# 📊 Data Science
 
 - Python
 - Pandas
 - NumPy
 - K-Means Clustering
 - Simple Additive Weighting (SAW)
+- Data Analysis
+- Data Visualization
 
 ---
 
@@ -70,75 +81,92 @@
 
 ## 🛒 POS Mobile Application
 
-Flutter • Go • PostgreSQL
+Modern Point of Sale application built using **Flutter**, **Go**, and **PostgreSQL**.
+
+### Features
 
 - Barcode Scanner
-- Transaction
-- Reports
-- Inventory
+- Product Management
+- Sales Transactions
 - Customer Management
+- Sales Reports
+- Inventory Management
 
 ---
 
 ## 🧗 Athlete Decision Support System
 
-React • Express • Python
+Decision Support System using **K-Means Clustering** and **Simple Additive Weighting (SAW)**.
 
-- K-Means Clustering
-- SAW Algorithm
+### Features
+
+- Athlete Ranking
 - Data Visualization
-- Ranking System
+- Clustering
+- Decision Support
+- Reporting Dashboard
 
 ---
 
-## 🏢 Cooperative Information System
+## 🏢 Cooperative Management System
 
-Laravel • MySQL
+A web-based information system for cooperative management.
+
+### Features
 
 - Member Management
 - Savings & Loans
-- Reports
+- Financial Reports
 - Authentication
+- Dashboard
 
 ---
 
 ## 🏡 Property Listing Platform
 
-React • Node.js • PostgreSQL
+Modern property listing website.
+
+### Features
 
 - Property Search
+- Responsive Design
 - Authentication
-- Responsive UI
-- Advanced Filter
+- Advanced Filtering
+- Property Management
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Learning
 
-- Flutter Development
-- Full Stack Development
-- REST API
 - Clean Architecture
-- Go Backend
-- UI/UX Design
-- Remote Opportunities
+- REST API Development
+- Flutter Advanced State Management
+- Microservices
+- Cloud Deployment
+- System Design
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-📧 Email : YOUR_EMAIL@gmail.com
+📧 **Email**
 
-🌐 Portfolio : https://YOUR-PORTFOLIO.vercel.app
+fandydahlan3@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
+🌐 **Portfolio**
+
+(https://porto-fandy.vercel.app/)
+
+💼 **LinkedIn**
+
+(https://www.linkedin.com/in/fandy-bonaro-dahlan-936162221/)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
+### ⭐ Thank you for visiting my GitHub profile!
 
-*"Code. Learn. Build. Improve."*
+*"Building software that solves real-world problems."*
 
 </div>
