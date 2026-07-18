@@ -140,11 +140,11 @@ Projects include:
 
 # 📫 Contact Me
 
-📧 Email: your-email@gmail.com
+📧 Email: fandydahlan3@gmail.com
 
-🌐 Portfolio: https://your-portfolio.vercel.app
+🌐 Portfolio: [https://your-portfolio.vercel.app](https://porto-fandy.vercel.app/)
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://[linkedin.com/in/your-profile](https://www.linkedin.com/in/fandy-bonaro-dahlan-936162221/)
 
 ---
 
